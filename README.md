@@ -43,4 +43,4 @@ If you're interested in contributing to this project, please feel free to fork t
 
 If you have any questions or feedback about the Flask Weather App, please feel free to reach out. You can contact me on LinkedIn, Twitter (links for which are available on my profile) or open an issue on GitHub.
 
-Happy codin
+Happy coding!!!
