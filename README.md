@@ -14,7 +14,6 @@ To get started with the Flask Weather App, follow these simple steps:
    ```
    git clone https://github.com/MHuzaifaRauf/flask-weather-app.git
    ```
-   Replace `yourusername` with your actual GitHub username.
 
 2. **Create a .env File**: Before running the application, you need to create a `.env` file in the root directory of the project. This file will contain your API key, which you can obtain for free from [OpenWeatherMap](https://openweathermap.org) by creating a new account. Once you have your API key, add it to the `.env` file like so:
    ```
