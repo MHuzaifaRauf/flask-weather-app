@@ -12,7 +12,7 @@ To get started with the Flask Weather App, follow these simple steps:
 
 1. **Clone the Repository**: First, clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/flask-weather-app.git
+   git clone https://github.com/MHuzaifaRauf/flask-weather-app.git
    ```
    Replace `yourusername` with your actual GitHub username.
 
