@@ -3,6 +3,7 @@
 Welcome to the Flask Weather App! This repository serves as a great starting point for those new to web development with Python. It's designed to give you a solid foundation in organizing your code and understanding how to build and run a complete, fully working web application.
 
 ## Project Overview
+![Image](/static/img/weather-app.png)
 
 The Flask Weather App is a simple yet powerful project that demonstrates how to retrieve and display weather information using an API. It's built with Flask, a lightweight web framework for Python, making it an excellent choice for beginners looking to dive into web development.
 
